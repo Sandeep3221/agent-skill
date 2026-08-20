@@ -64,6 +64,7 @@ Then just ask for a scroll-through world landing page, or invoke `/lets-scroll`
 
 ## What it does
 
+
 Two pipelines, one page. The art pipeline renders every scene still with GPT Image 2
 (via Higgsfield, or the Codex CLI on a ChatGPT subscription) under a shared style
 preamble, so the whole world reads as one place; the default look is a soft isometric
@@ -114,6 +115,7 @@ skills/lets-scroll/
 ```
 
 ## Notes
+
 
 - Asset generation costs money (~N image gens on Higgsfield credits + N to 2N−1 video
   gens — walkthrough chains render N forward legs; fly-through chains render N dives +
