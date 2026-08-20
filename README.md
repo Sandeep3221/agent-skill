@@ -29,7 +29,6 @@ Copy the skill folder into your agent's skills directory:
 cp -R lets-scroll/skills/lets-scroll ~/.claude/skills/   # Claude Code
 cp -R lets-scroll/skills/lets-scroll ~/.codex/skills/    # Codex
 ```
-
 Then just ask for a scroll-through world landing page, or invoke `/lets-scroll`
 (`$lets-scroll` in Codex).
 
